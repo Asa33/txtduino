@@ -1,5 +1,5 @@
-twilio_account_sid = 'PUT YOUR TWILIO ACCT SID HERE'
-twilio_auth_token = 'PUT YOUR TWILIO AUTH TOKEN HERE'
-your_phone_number = 'PUT YOUR PHONE NUMBER HERE'
-your_twilio_number = 'PUT YOUR TWILIO PHONE NUMBER HERE'
+twilio_account_sid = 'ACc901152e648eeb4df83f493ac475f24e'
+twilio_auth_token = 'c1d054b7da06f2c03f8287300c4d8fe0'
+your_phone_number = '18027932855'
+your_twilio_number = '1(802) 778-9280'
 
